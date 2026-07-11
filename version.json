@@ -1,1 +1,7 @@
 
+{
+  "version": "0.3.0",
+  "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/latest/download/AgriPanel_Setup.exe",
+  "notes": "Ajout des warnings, veilleuses, phares, feux de travail et voyant outil actif.",
+  "mandatory": false
+}
