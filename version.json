@@ -1,6 +1,6 @@
 {
-  "version": "0.5.1",
-  "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/latest/download/AgriPanel_Setup_v0.5.0.exe",
-  "notes": "Version 0.5.1 : amélioration des performances, optimisation de la télémétrie, amélioration de la connexion des boîtiers et ajout des nouveaux paramètres.",
+  "version": "0.5.2",
+  "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/download/v0.5.2/AgriPanel_Setup_v0.5.2.exe",
+  "notes": "Version 0.5.2 : test complet du système de mise à jour automatique.",
   "mandatory": false
 }
