@@ -1,7 +1,6 @@
-
 {
-  "version": "0.3.0",
-  "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/latest/download/AgriPanel_Setup.exe",
-  "notes": "Ajout des warnings, veilleuses, phares, feux de travail et voyant outil actif.",
+  "version": "0.5.0",
+  "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/latest/download/AgriPanel_Setup_v0.5.0.exe",
+  "notes": "Version 0.5.0 : amélioration des performances, optimisation de la télémétrie, amélioration de la connexion des boîtiers et ajout des nouveaux paramètres.",
   "mandatory": false
 }
