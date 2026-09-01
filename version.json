@@ -1,6 +1,6 @@
 {
-  "version": "0.5.2",
+  "version": "0.5.3",
   "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/download/v0.5.2/AgriPanel_Setup_v0.5.2.exe",
-  "notes": "Version 0.5.2 : test complet du système de mise à jour automatique.",
+  "notes": "Version 0.5.3 : mise à jours dashbord.",
   "mandatory": false
 }
