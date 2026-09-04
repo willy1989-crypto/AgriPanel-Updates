@@ -1,6 +1,6 @@
 {
-  "version": "0.6.0",
-  "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/download/v0.6.0/AgriPanel_Setup_v0.6.0.exe",
-  "notes": "Version 0.6.0 : configuration complete du Switch Panel, profils FS25 et ETS2, attribution libre des touches, couleurs RGB configurables, fonctions LED configurables, amelioration de la telemetrie ETS2, ajout du regulateur de vitesse et des essuie-glaces, corrections et ameliorations de stabilite.",
+  "version": "0.6.1",
+  "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/download/v0.6.1/AgriPanel_Setup_v0.6.1.exe",
+  "notes": "Version 0.6.1 : mise à jours de la mise à l'échelle.",
   "mandatory": false
 }
