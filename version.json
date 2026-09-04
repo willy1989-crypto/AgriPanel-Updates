@@ -1,6 +1,6 @@
 {
-  "version": "0.6.1",
-  "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/download/v0.6.1/AgriPanel_Setup_v0.6.1.exe",
-  "notes": "Version 0.6.1 : mise à jours de la mise à l'échelle.",
+  "version": "0.6.2",
+  "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/download/v0.6.2/AgriPanel_Setup_v0.6.2.exe",
+  "notes": "Version 0.6.2 : mise à jours de la mise à l'échelledu titre de la page .",
   "mandatory": false
 }
