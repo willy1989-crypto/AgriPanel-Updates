@@ -1,6 +1,6 @@
 {
-  "version": "0.6.2",
-  "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/download/v0.6.2/AgriPanel_Setup_v0.6.2.exe",
-  "notes": "Version 0.6.2 : mise à jours de la mise à l'échelledu titre de la page .",
+  "version": "0.6.3",
+  "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/download/v0.6.3/AgriPanel_Setup_v0.6.3.exe",
+  "notes": "Version 0.6.3 : ajout éclairage de jauge pour boitier jauge ainsi une nouvelle led pour moiconneuse.",
   "mandatory": false
 }
