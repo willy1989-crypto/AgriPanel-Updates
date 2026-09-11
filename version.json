@@ -1,6 +1,6 @@
 {
-  "version": "0.6.6",
-  "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/download/v0.6.6/AgriPanel_Setup_v0.6.6.exe",
-  "notes": "Version 0.6.6 : modification état des leds lors du démarrage de farming.",
+  "version": "0.6.7",
+  "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/download/v0.6.7/AgriPanel_Setup_v0.6.7.exe",
+  "notes": "Version 0.6.7 : modification état des leds lors du démarrage de farming.",
   "mandatory": false
 }
