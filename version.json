@@ -1,6 +1,6 @@
 {
-  "version": "0.6.9",
-  "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/download/v0.6.9/AgriPanel_Setup_v0.6.9.exe",
-  "notes": "Version 0.6.9 : Modification des noms de Panel et ajustement des affichages de texte",
+  "version": "0.7.0",
+  "downloadUrl": "https://github.com/willy1989-crypto/AgriPanel-Updates/releases/download/v0.7.0/AgriPanel_Setup_v0.7.0.exe",
+  "notes": "Version 0.7.0 : Modification interface, changement de nom pour WyrixPanel",
   "mandatory": false
 }
